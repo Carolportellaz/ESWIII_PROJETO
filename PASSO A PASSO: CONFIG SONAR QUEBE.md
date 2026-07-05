@@ -10,8 +10,8 @@ Pré-requisitos
 Abra o PowerShell como administrador e execute:
 
 wsl --update
-
 Reinicie o computador.
+
 2. Verificar o Docker
 Abra o Docker Desktop e aguarde aparecer 'Engine running'.
 
