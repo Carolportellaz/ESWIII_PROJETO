@@ -1,4 +1,4 @@
-### FOI ESTRUTURADO O SEGUINTE PROMPT PADRÃO PARA TODOS OS CASOS - JAVA
+### FOI ESTRUTURADO O SEGUINTE PROMPT PADRÃO PARA TODOS OS CASOS DA LINGUAGEM JAVA
 
 "Você é um Engenheiro de Software Sênior, especialista em Java com foco em Clean Code e experiência em ferramentas de análise de código como o SonarQuebe.
 
@@ -16,7 +16,7 @@ Além disso, deixei o código o simples e de fácil compreensão para os demais 
 
 
 
-### FOI ESTRUTURADO O SEGUINTE PROMPT PADRÃO PARA TODOS OS CASOS - C++
+### FOI ESTRUTURADO O SEGUINTE PROMPT PADRÃO PARA TODOS OS CASOS DA LINGUAGEM C++
 
 "Você é um Engenheiro de Software Sênior, especialista em C++ com foco em Clean Code e experiência em ferramentas de análise de código como o SonarQuebe.
 
