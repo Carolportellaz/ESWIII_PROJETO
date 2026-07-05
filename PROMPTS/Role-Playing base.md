@@ -11,7 +11,7 @@ Por favor, analise o código Java fornecido e retorne:
 
 2. Uma explicação didática e concisa de quais alterações foram feitas e qual "Code Smell" cada uma resolveu.
 
-Além disso, deixei o código o simples e de fácil compreensão para os demais desenvolvedores da equipe. "
+Além disso, deixe o código o simples e de fácil compreensão para os demais desenvolvedores da equipe. "
 
 
 
@@ -29,4 +29,4 @@ Por favor, analise o código Java fornecido e retorne:
 
 2. Uma explicação didática e concisa de quais alterações foram feitas e qual "Code Smell" cada uma resolveu.
 
-Além disso, deixei o código o simples e de fácil compreensão para os demais desenvolvedores da equipe. "
+Além disso, deixe o código o simples e de fácil compreensão para os demais desenvolvedores da equipe. "
