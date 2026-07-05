@@ -1,4 +1,4 @@
-** OBS: O passo a passo foi gerado por um LLM **
+**OBS: O passo a passo foi gerado por um LLM**
 
 Pré-requisitos
 • Windows 10 ou superior
