@@ -14,7 +14,7 @@ Por favor, analise o código Java fornecido e retorne:
 Além disso, deixe o código o simples e de fácil compreensão para os demais desenvolvedores da equipe. "
 
 ### LINK PARA AS CONVERSAS
-** POLIMORFISMO E HERANÇA **
+**POLIMORFISMO E HERANÇA**
 - GITHUB COPLIT: https://github.com/copilot/share/c8725398-0220-88a6-8913-ea48a07b0127
 - GPT 5.5: https://chatgpt.com/share/6a4ac723-1524-83e9-bb57-0afede04c829
 - GEMINI: https://share.gemini.google/pkvWAknmOVKL
