@@ -33,3 +33,8 @@ Além disso, deixe o código o simples e de fácil compreensão para os demais d
 - GITHUB COPLIT: https://github.com/copilot/share/4a724018-0304-88a0-8050-e849a0f10034
 - GPT 5.5: https://chatgpt.com/share/6a4b2b1a-078c-83e9-9e9e-a3dfe5569db4
 - GEMINI: https://share.gemini.google/hf78yRGwjzEE
+
+**PILHA**
+- GITHUB COPLIT: https://github.com/copilot/share/883b5298-4200-8402-9043-780080f14035
+- GPT 5.5: https://chatgpt.com/share/6a4b4f65-3024-83e9-a6f4-369e4020a9d8
+- GEMINI: https://share.gemini.google/Eml16geHjsV6
