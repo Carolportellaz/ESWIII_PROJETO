@@ -43,3 +43,8 @@ Além disso, deixe o código o simples e de fácil compreensão para os demais d
 - GITHUB COPLIT: https://github.com/copilot/share/0252430a-4a24-8400-9143-784980336074
 - GPT 5.5: https://chatgpt.com/share/6a4b5950-2c38-83e9-bdb2-9e9dbe424f18
 - GEMINI: https://share.gemini.google/JEhYqqBqiPkM
+
+**QUICK**
+- GITHUB COPLIT: https://github.com/copilot/share/4a5a5098-4a20-8804-8041-6849a0314976
+- GPT 5.5: https://chatgpt.com/share/6a4c3f77-3240-83e9-9184-8d3f70893f6c
+- GEMINI: https://share.gemini.google/r34JHtK9m4EW
