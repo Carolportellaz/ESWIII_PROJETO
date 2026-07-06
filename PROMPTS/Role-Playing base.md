@@ -23,3 +23,8 @@ Além disso, deixe o código o simples e de fácil compreensão para os demais d
 - GITHUB COPLIT: https://github.com/copilot/share/c81b5118-0a00-8402-8940-f80184730025
 - GPT 5.5: https://chatgpt.com/share/6a4b0a06-cfc8-83e9-b33c-c3eaa8756ebf
 - GEMINI: https://share.gemini.google/dQaayBagzU0V
+
+**ALGORTIMO DE TENTATIVA E ERRO**
+- GITHUB COPLIT: https://github.com/copilot/share/82735088-4b00-8000-a902-6809a4734876
+- GPT 5.5: https://chatgpt.com/share/6a4b1ae6-a2c8-83e9-be92-18bac889d07e
+- GEMINI: https://share.gemini.google/v2JZo5Xkzd0M
