@@ -28,3 +28,8 @@ Além disso, deixe o código o simples e de fácil compreensão para os demais d
 - GITHUB COPLIT: https://github.com/copilot/share/82735088-4b00-8000-a902-6809a4734876
 - GPT 5.5: https://chatgpt.com/share/6a4b1ae6-a2c8-83e9-be92-18bac889d07e
 - GEMINI: https://share.gemini.google/v2JZo5Xkzd0M
+
+**PROGRAMAÇÃO DINÂMICA**
+- GITHUB COPLIT: https://github.com/copilot/share/4a724018-0304-88a0-8050-e849a0f10034
+- GPT 5.5: https://chatgpt.com/share/6a4b2b1a-078c-83e9-9e9e-a3dfe5569db4
+- GEMINI: https://share.gemini.google/hf78yRGwjzEE
