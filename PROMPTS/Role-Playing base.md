@@ -104,7 +104,7 @@ Além disso, deixe o código o simples e de fácil compreensão para os demais d
 - GPT 5.5: https://chatgpt.com/share/6a4c7539-cb6c-83e9-a7b4-b0434d95aa95
 - GEMINI: https://share.gemini.google/PCaXblEqunzT
 
-**
-- GITHUB COPLIT: 
-- GPT 5.5: 
-- GEMINI:
+**MODIFICADOR STATIC**
+- GITHUB COPLIT: https://github.com/copilot/share/48331318-4b00-8c02-b853-6a40847b0975
+- GPT 5.5: https://chatgpt.com/share/6a4c77dc-91a0-83e9-9608-cfc235ef380f
+- GEMINI: https://share.gemini.google/mUCxkd2DE0nj
