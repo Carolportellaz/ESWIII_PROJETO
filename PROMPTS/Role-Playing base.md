@@ -58,3 +58,8 @@ Além disso, deixe o código o simples e de fácil compreensão para os demais d
 - GITHUB COPLIT: https://github.com/copilot/share/0a520208-4a20-84a4-9000-7a0884f94874
 - GPT 5.5: https://chatgpt.com/share/6a4c4cd6-6fc8-83e9-8cdc-99a60b0309ec
 - GEMINI: https://share.gemini.google/nXXsAdxkIXXG
+
+**TABELA HASH**
+- GITHUB COPLIT: https://github.com/copilot/share/ca52001a-4324-8c82-b913-7840a4390065
+- GPT 5.5: https://chatgpt.com/share/6a4c5276-375c-83e9-9eb2-d6292a112a3b
+- GEMINI: https://share.gemini.google/4WrEZI22cv2e
