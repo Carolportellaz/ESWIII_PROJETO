@@ -98,3 +98,8 @@ Além disso, deixe o código o simples e de fácil compreensão para os demais d
 - GITHUB COPLIT: https://github.com/copilot/share/4253528a-4b04-8082-b111-e84880b16024
 - GPT 5.5: https://chatgpt.com/share/6a4c718a-4c30-83e9-831e-c3ba818e4fdb
 - GEMINI: https://share.gemini.google/a2Pd9EhoQB9w
+
+**INTERFACE**
+- GITHUB COPLIT: https://github.com/copilot/share/427a030a-0b00-8ca2-9013-ea40a4736166
+- GPT 5.5: https://chatgpt.com/share/6a4c7539-cb6c-83e9-a7b4-b0434d95aa95
+- GEMINI: https://share.gemini.google/PCaXblEqunzT
